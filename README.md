@@ -127,7 +127,7 @@ Several points are worth noting from the results:
 
 ## 4 - Areas of improvement
 
-De nombreux axes d'amelioration aurai
+Many areas for improvement could have been explored.
 
 1. **Creating separate models:**: I think it might have been beneficial to develop two distinct models for this project, one focusing on predicting consumption and the other on production. Since production and consumption are independent, exploring this approach could have potentially improved the model’s performance.
 
